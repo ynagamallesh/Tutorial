@@ -20,6 +20,6 @@ close(TEXT); ## close file
 print "\n\n'Shake' occurs $count times in file.\n";
 print "It occurs on the following lines: ";
 foreach $e (@lineAry) { print "$e, "; }
-print "\n\n";
+print "\n\n\n";
 exit;
 

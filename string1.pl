@@ -11,20 +11,4 @@ if($mystring =~ m/(\d)/) {
 	print "The first digit is $1.";
 }
 
-\Clients\Sinclair\04March2015
-
-
-\Clients\PetroInEos\P_INE_2.0.3\Patches
-
-
-\Clients\Arcadia\FR9
-
-
-
-
-source   \\172.16.144.98\DeadEnd\FTP\Releases\FR9\13950_SINCLAIR\TradeAggregator
-
-FR9_SINCLAIR_PROD_13536_TA_sp11.tar.gz
-
-
-dest \\172.16.144.98\DeadEnd\FTP\Clients\Sinclair\16JUNE2015
+This is my first perl program.
